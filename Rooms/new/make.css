@@ -1,0 +1,38 @@
+#cane{
+margin-top:0.3em;
+font-size:3em;
+text-align: center;
+font-family: 'Rubik', sans-serif;
+
+}
+
+
+#formarea{
+
+width: 90%;
+margin: 0 auto;
+
+
+}
+
+
+
+input{
+
+width:100%;
+height:20%
+
+}
+
+
+p{
+  font-size:3em;
+  text-align: center;
+  margin-top:0.3em;
+  margin-bottom: 0.5em;
+}
+
+
+a{
+
+}
